@@ -176,7 +176,7 @@ Key tuned parameters and rationales:
 - Test hybrid models combining SVC with ensemble techniques.  
 
 ---
---
+-----
 
 ## Coding Contributors  
 The implementation was a collaborative effort by:  
@@ -215,7 +215,7 @@ The implementation was a collaborative effort by:
 
 [13] Scikit-learn developers, "sklearn.datasets.load_digits," *Scikit-learn Documentation*. [Online]. Available: [load_digits — scikit-learn 1.6.1 documentation](https://scikit-learn25].
 
-
+------
 ------
 
 # Appendix I
