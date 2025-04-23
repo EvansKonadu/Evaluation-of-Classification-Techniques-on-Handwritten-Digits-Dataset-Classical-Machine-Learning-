@@ -1,6 +1,7 @@
 # Handwritten Digit Classification: Comparative Analysis of Machine Learning Models
 
 **Author**: Evans Konadu 
+
 **Date**: 2025  
 
 ---
